@@ -2,7 +2,7 @@
 
 # Validated Developer Pain Signals — Week of August 17, 2026
 
-![Updated weekly](https://img.shields.io/badge/updated-every%20monday-3ddc84) ![License](https://img.shields.io/badge/report%20license-CC%20BY%204.0-blue) ![Source](https://img.shields.io/badge/source-40%2C705%20clustered%20complaints-06080d)
+![Updated weekly](https://img.shields.io/badge/updated-every%20monday-3ddc84) ![License](https://img.shields.io/badge/report%20license-CC%20BY%204.0-blue) ![Source](https://img.shields.io/badge/source-40%2C740%20clustered%20complaints-06080d)
 
 10 developer pains worth building for, ranked by **distinct companies affected**,
 not upvotes. Every row links to public issues you can read yourself.
@@ -104,8 +104,8 @@ Sources: GitHub Issues, Stack Overflow, Hacker News, Bluesky.
 ## How this is generated
 
 Complaints from GitHub / Stack Overflow / Hacker News / Bluesky are clustered
-nightly with NLP into 40,705 tracked pain signals, then ranked by **distinct
-companies affected** (owner count), not by upvotes. 307 signals currently span
+nightly with NLP into 40,740 tracked pain signals, then ranked by **distinct
+companies affected** (owner count), not by upvotes. 308 signals currently span
 5+ independent products, roughly 1% of everything tracked.
 
 Three things worth knowing about the selection:
