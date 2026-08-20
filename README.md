@@ -1,4 +1,4 @@
-![dev-pain-index](banner.png)
+![dev-pain-index](assets/banner.png)
 
 # Validated Developer Pain Signals — Week of August 17, 2026
 
